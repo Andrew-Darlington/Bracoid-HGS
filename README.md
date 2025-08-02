@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16689615.svg)](https://doi.org/10.5281/zenodo.16689615)
+
 # Bracoid-HGS
 Two (MAGMA) algorithms for classifying and enumerating Hopf-Galois structures and skew bracoids of low degree. The main function for both algorithms is NumAll.
 
